@@ -1,0 +1,5 @@
+ApiKey
+12e8113f418b8b4d9cb4a84bc240e659-96fc9c03-f0eb-48d8-9004-ac588eb0c38b
+url
+5yz65z.api.infobip.com
+https://portal.infobip.com/homepage
